@@ -14,3 +14,7 @@ This repository is a homework assignment exploring the use of an AI coding assis
 | `63f9844` | My own edited version |
 | `7239e07` | Initial repository setup |
 | `c7bc4d2` | Initial commit |
+
+## Video
+
+https://youtu.be/4kGvtgcCHL0
